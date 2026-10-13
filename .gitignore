@@ -1,0 +1,11 @@
+# IDE settings
+.idea/
+
+# React / Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
